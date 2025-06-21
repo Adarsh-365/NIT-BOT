@@ -1,0 +1,9 @@
+time
+PyPDF2
+langchain_community
+langchain_groq
+dotenv
+qroq
+langchain
+langchain_huggingface
+sentence-transformers
