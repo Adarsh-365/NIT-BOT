@@ -12,7 +12,7 @@ embeddings = HuggingFaceEmbeddings(
 )
 
 from langchain.chains.question_answering import load_qa_chain as original_load_qa_chain
-from groq import Groq
+# from groq import Groq
 from langchain_groq import ChatGroq
 llm = ChatGroq(
     api_key=api_key,
