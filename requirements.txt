@@ -67,7 +67,7 @@ orjson==3.10.18
 ormsgpack==1.10.0
 packaging==24.2
 parso==0.8.4
-pillow==11.2.1
+pillow==11.3.0
 platformdirs==4.3.8
 primp==0.15.0
 prompt_toolkit==3.0.51
